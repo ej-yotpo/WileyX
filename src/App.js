@@ -14,7 +14,7 @@ function App() {
   let InstanceId_SEO = "";
   let InstanceId_Carousel = "622626";
   let InstanceId_StarRating = "997583";
-  let InstanceId_PromotedProd = "";
+  let InstanceId_PromotedProd = "675814";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
 
